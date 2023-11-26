@@ -18,5 +18,5 @@ hope I won't get sued...
 for jpg.exe search "jpg.exe download" on YouTube or idk? 
 
 
-Read this first
+# READ THIS FIRST 
 These aren't my malwares. don't run these on ur host computer
